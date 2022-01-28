@@ -1,0 +1,22 @@
+{
+  "name": "checklist",
+  "version": "1.0.0",
+  "description": "Tentando Aprender Node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateusotabe/checklist.git"
+  },
+  "author": "João",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mateusotabe/checklist/issues"
+  },
+  "homepage": "https://github.com/mateusotabe/checklist#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
